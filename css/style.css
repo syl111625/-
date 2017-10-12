@@ -1,0 +1,39 @@
+/* CSS Document */
+*{margin:0px;padding:0px;}
+#wrapper{width:980px;margin:0 auto;}
+#wrapper #header{position:relative;height:70px;}
+#wrapper #header h1{margin-left:40px;font-size:24px;margin-top:10px;}
+#wrapper #header #header_tit{font-size:18px;margin-left:40px;}
+#wrapper #header #header1{background:url(../images/nav2.jpg) no-repeat;position:absolute;top:15px;right:150px;padding-left:20px;}
+#wrapper #header #header2{background:url(../images/nav3.jpg) no-repeat;position:absolute;top:15px;right:50px;padding-left:20px;}
+
+#wrapper #main #nav{width:980px;height:35px;line-height:35px;background:url(../images/nav1.jpg);border-bottom:5px solid #CCC;}
+#wrapper #main #nav ul{list-style:none;}
+#wrapper #main #nav ul li{width:80px;float:left;padding-left:10px;}
+#wrapper #main #nav ul li a{text-decoration:none;color:#fff;}
+#wrapper #main #pic{background:url(../images/main1.jpg);width:980px;height:310px;}
+#wrapper #main #introduce  #intro_left{float:left;}
+#wrapper #main #introduce  #intro_left #intro_left_title1{position:relative;width:530px;height:45px;border-top:5px solid #CCC;}
+#wrapper #main #introduce #intro_left #intro_left_title1 #intro_title_p{margin-left:20px;border-bottom:1px solid #CCC;padding:20px 0px 10px 20px;}
+#wrapper #main #introduce #intro_left #intro_left_title1 #intro_title_p #intro_title_m{position:absolute;top:20px;right:20px;font:18px;}
+#wrapper #main #introduce #intro_left h1{color:#b21616;margin:20px 0px 30px 20px;}
+#wrapper #main #introduce #intro_left p{width:530px;line-height:30px;position:relative;}
+#wrapper #main #introduce #intro_left #intro_left_title2{position:relative;width:530px;height:45px;}
+#wrapper #main #introduce #intro_left #intro_left_title2 #intro_title_pa{margin-left:20px;border-bottom:1px solid #CCC;padding:20px 0px 10px 20px;}
+#wrapper #main #introduce #intro_left_title2 #intro_title_pa #intro_title_mo{position:absolute;top:20px;right:20px;font:18px;}
+#wrapper #main #introduce #intro_left span{position:absolute;top:0px;right:25px;color:#990000;}
+#wrapper #main #introduce  #intro_right{float:left;margin-left:20px;border-top:5px solid #dbdbdb;}
+<!--> #action{height:257px;width:573px;background:url(../images/buttom_0.jpg);}
+#wrapper #main #introduce #clear{clear:left;}
+#wrapper #main #introduce #servince h2{font-weight:bold;background:url(../images/back1.jpg) repeat-x 0px 50px;height:72px;width:430px;}
+#wrapper #main #introduce #servince .servinces{color:#b21616;font-size:24px;}
+#wrapper #main #introduce #servince .servincesf{font-size:36px;}
+#wrapper #main #introduce #servince #servince1{width:430px;height:95px;background:url(../images/back2.jpg) repeat-x;color:#898989;font-size:18px;padding-top:30px;margin-top:-2px;}
+#wrapper #main #introduce #servince #servince1 img{float:left;}
+#wrapper #main #introduce #servince #servince2{width:430px;height:95px;background:url(../images/back2.jpg) repeat-x;color:#898989;font-size:18px;padding-top:30px;margin-top:-2px;}
+#wrapper #main #introduce #servince #servince2 img{float:left;}
+#wrapper #main  #images {border-top:1px solid #e5e5e5;border-bottom:1px solid #e5e5e5;width:980px;height:120px;}
+#wrapper #main  #images img{float:left;margin-left:30px;padding:20px 0px 20px 0px;}
+#wrapper #footer{color:#818181;line-height:30px;border-top:5px solid #e5e5e5;padding-top:20px;margin-top:10px;font-weight:bold;position:relative;width:980px;}
+#wrapper #footer #footer-right{position:absolute;right:0px;bottom:-20px;}
+#wrapper #footer  #footer_right1{color:#656565;}
